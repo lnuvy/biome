@@ -1,5 +1,12 @@
 # @biomejs/runtime
 
+## 2.6.9
+
+### Patch Changes
+
+- Updated dependencies [[`54eb224`](https://github.com/biomejs/biome/commit/54eb22453cfcf704a12658377555fb7f0b9dcb89), [`6e2b42e`](https://github.com/biomejs/biome/commit/6e2b42e354c3e6ec31d55498a1118fae63d45ff2), [`37692e2`](https://github.com/biomejs/biome/commit/37692e2e1bc99350f9cc8561dae265b6ce92d12d), [`0cc8548`](https://github.com/biomejs/biome/commit/0cc85487e5180821773912c5b79d5694247b3cbd), [`5065890`](https://github.com/biomejs/biome/commit/5065890df8502048307d5da6749095f314b471e6), [`0d70b09`](https://github.com/biomejs/biome/commit/0d70b099ae1884037c16050d8187b3d9e559c583), [`981cd33`](https://github.com/biomejs/biome/commit/981cd3341c1780ca54f82cd3f206bc8cf39e5604), [`8ece6a5`](https://github.com/biomejs/biome/commit/8ece6a5fb61dd3d35f795ebbf625308b06c60897), [`dc11dea`](https://github.com/biomejs/biome/commit/dc11deaa4bca032f26bc44e7d59d78aefa157577), [`4a21426`](https://github.com/biomejs/biome/commit/4a21426e60a88b77296019cbf0b2630a31ce08a5), [`432e8c8`](https://github.com/biomejs/biome/commit/432e8c8ebba29e9a58157f56ac78aa991b0492d9), [`6f231d0`](https://github.com/biomejs/biome/commit/6f231d0831f18458801381849ad7ab2e34197304), [`c3f850e`](https://github.com/biomejs/biome/commit/c3f850ed725f285f4ecbddce55037da53e77c6fb), [`9add717`](https://github.com/biomejs/biome/commit/9add7177802382e2d1afec7698cfe6bf893da9f4), [`c3f850e`](https://github.com/biomejs/biome/commit/c3f850ed725f285f4ecbddce55037da53e77c6fb), [`c919f1c`](https://github.com/biomejs/biome/commit/c919f1cbe8949835c6da55f64d1aee2f29c86900), [`b359a58`](https://github.com/biomejs/biome/commit/b359a583cc3faca5795fed149d61ff0e6d5173ee), [`ee7e535`](https://github.com/biomejs/biome/commit/ee7e535d7520a43268d25cdb13bc449e052a03e2), [`b6e7d37`](https://github.com/biomejs/biome/commit/b6e7d37e3070d59da103e05bd7ac1d5e0f19d870), [`f0e63ff`](https://github.com/biomejs/biome/commit/f0e63ffb05da280a7f7efe7c0118074d0e0f0628), [`f126262`](https://github.com/biomejs/biome/commit/f12626245291452e13941783ced3225e5f646f12), [`2ae8b51`](https://github.com/biomejs/biome/commit/2ae8b516203aba18af4855a09cf8a752e3fa9189), [`103dc4e`](https://github.com/biomejs/biome/commit/103dc4ef7de049f6b5a1e2a49df852daa324bc54)]:
+  - @biomejs/biome@2.6.9
+
 ## 2.6.8
 
 ### Patch Changes
